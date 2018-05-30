@@ -1,5 +1,6 @@
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
+
+//import java.time.LocalDateTime;
 
 public class ClubApplication {
 
@@ -59,6 +60,7 @@ public class ClubApplication {
 		LocalDateTime d1 = LocalDateTime.of(2018, 1, 12, 12, 00);
 		LocalDateTime d2 = LocalDateTime.of(2018, 2, 11, 12, 00);
 		LocalDateTime d3 = LocalDateTime.of(2018, 3, 10, 12, 00);
+//		LocalDateTime d4 = null;
 //		LocalDateTime d5 = null;
 		
 //		try {
